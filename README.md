@@ -102,6 +102,7 @@ Building a reliable dashboard depends heavily on the quality of the underlying d
 ---
 
 ## Dashboard Preview
+<img width="1861" height="797" alt="Dashboard" src="https://github.com/user-attachments/assets/9025ff0c-9423-4bc0-8d07-65d77ca4df49" />
 
 
 ---
